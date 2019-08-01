@@ -15,3 +15,4 @@ items typed as strings.
 That's the notation in Kotlin.
  */
 // go to menu -> run -> edit configuration -> fill the table of main class & program arguments
+
