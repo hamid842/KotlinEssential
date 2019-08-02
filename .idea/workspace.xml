@@ -2,8 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2edfaa87-731a-49b6-b3c0-19929972a11b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter3/NameingInKotlin.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter4/BuildAString.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter4/CompareNumericValues.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter4/ConvertNumericAndStringTypes.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter4/KotlinMath.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter4/MatchWithOperatorsAndFns.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter4/StringsInKotlin.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter4/Variables.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KotlinEssential/META-INF/KotlinEssential.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/KotlinEssential/META-INF/KotlinEssential.kotlin_module" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter2/CommandLineArguments.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter2/CommandLineArguments.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter2/KotlinKoans.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter2/KotlinKoans.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter2/UseTheAPIDocumentation.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter2/UseTheAPIDocumentation.kt" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -27,6 +38,11 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../kotlin_tut" />
   </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\HAMID\KOTLIN\KotlinEssential\src\chapter2" />
+    </key>
+  </component>
   <component name="RunDashboard">
     <option name="ruleStates">
       <list>
@@ -39,20 +55,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
-    <configuration name="CommandLineArgumentsKt" type="JetRunConfigurationType" factoryName="Kotlin" nameIsGenerated="true">
-      <module name="KotlinEssential" />
-      <option name="VM_PARAMETERS" value="" />
-      <option name="PROGRAM_PARAMETERS" value="Hamid" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="CommandLineArgumentsKt" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Kotlin.chapter4.BuildAStringKt">
     <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
       <module name="KotlinEssential" />
       <option name="VM_PARAMETERS" value="" />
@@ -66,6 +69,93 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="chapter2.CommandLineArgumentsKt" type="JetRunConfigurationType" factoryName="Kotlin" nameIsGenerated="true">
+      <module name="KotlinEssential" />
+      <option name="VM_PARAMETERS" value="" />
+      <option name="PROGRAM_PARAMETERS" value="Hamid Mehdi" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="chapter2.CommandLineArgumentsKt" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="chapter4.BuildAStringKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <module name="KotlinEssential" />
+      <option name="VM_PARAMETERS" value="" />
+      <option name="PROGRAM_PARAMETERS" value="Hamid" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="chapter4.BuildAStringKt" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="chapter4.CompareNumericValuesKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <module name="KotlinEssential" />
+      <option name="VM_PARAMETERS" value="" />
+      <option name="PROGRAM_PARAMETERS" value="Hamid" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="chapter4.CompareNumericValuesKt" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="chapter4.KotlinMathKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <module name="KotlinEssential" />
+      <option name="VM_PARAMETERS" value="" />
+      <option name="PROGRAM_PARAMETERS" value="Hamid" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="chapter4.KotlinMathKt" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="chapter4.MatchWithOperatorsAndFnsKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <module name="KotlinEssential" />
+      <option name="VM_PARAMETERS" value="" />
+      <option name="PROGRAM_PARAMETERS" value="Hamid" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="chapter4.MatchWithOperatorsAndFnsKt" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="chapter4.StringsInKotlinKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <module name="KotlinEssential" />
+      <option name="VM_PARAMETERS" value="" />
+      <option name="PROGRAM_PARAMETERS" value="Hamid" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="chapter4.StringsInKotlinKt" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Kotlin.chapter4.BuildAStringKt" />
+        <item itemvalue="Kotlin.chapter4.StringsInKotlinKt" />
+        <item itemvalue="Kotlin.chapter4.KotlinMathKt" />
+        <item itemvalue="Kotlin.chapter4.MatchWithOperatorsAndFnsKt" />
+        <item itemvalue="Kotlin.chapter4.CompareNumericValuesKt" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -85,7 +175,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
